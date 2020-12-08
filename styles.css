@@ -1,0 +1,13 @@
+img {
+    height: 200px;
+}
+.header {background-color: lightpink;
+    padding:23px;
+    border: white dashed 7px;
+}
+img{
+    height: 100px;}
+.header {background-color:lightblue;
+    padding:23px;
+    border:grey dashed 7px;
+}
